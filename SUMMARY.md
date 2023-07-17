@@ -4,7 +4,15 @@
 
 ## 🛡 DFIR
 
+* [To be edited...](dfir/to-be-edited....md)
+
+## ⚔ OffSec
+
+* [To be edited...](offsec/to-be-edited....md)
+
 ## 🚩 CTF
+
+* [To be edited...](ctf/to-be-edited....md)
 
 ## ☁ Cloud
 
@@ -13,7 +21,7 @@
 * [Azure](cloud/azure/README.md)
   * [Identity and Access Administrator](cloud/azure/identity-and-access-administrator.md)
 
-## 🖥 Vendor
+## 💼 Vendor
 
 * [Splunk](vendor/splunk/README.md)
   * [Power User](vendor/splunk/power-user.md)
@@ -27,6 +35,6 @@
   * [Smart Contract](web3/fundamentals/smart-contract.md)
   * [Vulnerability](web3/fundamentals/vulnerability.md)
 
-## 🗑 Misc
+## 🖥 Misc
 
 * [vim](misc/vim.md)
